@@ -6,7 +6,7 @@ Programma realizē metamā kauliņa mešanu vairākas reizes
 - [x] Uzsākta lokālā projekta versionēšana
 - [x] Izveidots GitHub konts
 - [x] Izveidota GitHub krātuve (repo)
-- [ ] Papildinātās GitHub krātuves saturs iegūts (pull) lokālai lietošanai
-- [ ] Projektam piesaistīts vēl viens programmētājs, izmēģināta darbošanās kopā
-- [ ] Projektā ieviests jauns zars (branch)
-- [ ] Sapludināti zari un novērsts merge konflikts
+- [x] Papildinātās GitHub krātuves saturs iegūts (pull) lokālai lietošanai
+- [x] Projektam piesaistīts vēl viens programmētājs, izmēģināta darbošanās kopā
+- [x] Projektā ieviests jauns zars (branch)
+- [x] Sapludināti zari un novērsts merge konflikts
